@@ -1,13 +1,16 @@
 <script>
 import axios from 'axios';
-import Card from './components/Card.vue'
+import CardsFound from './components/CardsFound.vue'
+import CardsList from './components/CardsList.vue'
 import MainComponent from './components/Main.vue'
-
+import HeaderComponent from './components/Header.vue'
 export default {
   name: 'AppRickMorty',
     components: {
-      Card,
+      CardsList,
+      CardsFound,
       MainComponent,
+      HeaderComponent,
     },
   };
 
@@ -15,8 +18,11 @@ export default {
 
 <template>
 
-<Card></Card>
+
 <MainComponent></MainComponent>
+<HeaderComponent></HeaderComponent>
+<CardsList></CardsList>
+<CardsFound></CardsFound>
 
 </template>
 
