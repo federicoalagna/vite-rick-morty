@@ -5,7 +5,7 @@ export default {
 </script>
 <template>
     <div class="container">
-        <div>ciao</div>
+        <div></div>
     </div>
 </template>
 <style>
