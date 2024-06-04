@@ -18,11 +18,11 @@ export default {
 
 <template>
 
-
-<MainComponent></MainComponent>
 <HeaderComponent></HeaderComponent>
-<CardsList></CardsList>
 <CardsFound></CardsFound>
+<MainComponent></MainComponent>
+
+
 
 </template>
 

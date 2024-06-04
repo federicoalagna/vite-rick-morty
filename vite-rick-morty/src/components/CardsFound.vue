@@ -13,8 +13,8 @@ export default {
   </script>
   
   <template>
-<div>
+<h4 class="center m-top">
   {{ store.meta.total_rows }} Risultati trovati
-</div>
+</h4>
   </template>
   

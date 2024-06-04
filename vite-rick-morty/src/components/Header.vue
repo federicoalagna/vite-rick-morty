@@ -4,9 +4,12 @@ export default {
 };
 </script>
 <template>
-    <div class="container">
-        <div>Rick And Morty App</div>
+    <header>
+        <div class="container m-top ">
+        <h3 class="center">Rick And Morty App</h3>
     </div>
+    </header>
+
 </template>
 <style>
 </style>
