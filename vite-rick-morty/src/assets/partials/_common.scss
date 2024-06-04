@@ -1,7 +1,7 @@
 @use './variables' as *;
 
 body {
-    background-color: rgb(136, 227, 227);
+    background-color: rgb(161, 232, 85);
 }
 
 .container {
@@ -21,3 +21,6 @@ body {
     margin-top: 20px;
 }
 
+.grey {
+    color: rgb(67, 67, 67);
+}

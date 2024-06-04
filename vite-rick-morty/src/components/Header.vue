@@ -6,7 +6,7 @@ export default {
 <template>
     <header>
         <div class="container m-top ">
-        <h3 class="center">Rick And Morty App</h3>
+        <h1 class="center">Rick And Morty App</h1>
     </div>
     </header>
 
