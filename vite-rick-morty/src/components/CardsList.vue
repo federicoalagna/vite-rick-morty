@@ -33,9 +33,9 @@
   .card {
     flex-basis: calc(25% - 10px);
    
-background-color: rgba(255, 255, 255, 0.703);
-    border-radius: 8px;
-    padding: 20px;
+background-color: rgba(255, 255, 255, 0.267);
+    border-radius: 20px;
+    padding: 50px;
     margin-bottom: 20px;
     box-sizing: border-box;
     margin-top: 20px;
@@ -44,7 +44,7 @@ background-color: rgba(255, 255, 255, 0.703);
   
   .card-image {
     width: 70%;
-    border-radius: 5px;
+    border-radius: 50%;
     margin-bottom: 10px;
   }
   

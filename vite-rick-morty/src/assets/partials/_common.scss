@@ -1,7 +1,8 @@
 @use './variables' as *;
 
 body {
-    background-color: rgb(161, 232, 85);
+    
+    background: linear-gradient( rgb(161, 232, 85), rgb(15, 217, 15), rgb(180, 235, 16));
 }
 
 .container {
